@@ -16,16 +16,28 @@ body{
 .navbar-brand:hover{
     color: white;
 }
-.navbar-brand{
-    font-family: "Pacifico", cursive;
-    font-size: 2em;
-}
 
 .navbar-toggler{
     background-color: white;
 }
 
 img{
-    height: 550px;
+    height: 400px;
     width: 100%;
+}
+
+#img-sobre{
+   height: 300px;
+}
+
+.title{
+    font-family: "Pacifico", cursive;
+}
+
+strong{
+    color: #e15f41;
+}
+
+#sobre{
+    background-color: #ffeae6;
 }
