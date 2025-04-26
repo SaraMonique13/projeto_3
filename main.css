@@ -62,3 +62,9 @@ section#eventos img{
 .social-links a{
     text-decoration: none;
 }
+
+@media (max-width: 767px){
+    .carousel-item img{
+        height: 280px;
+    }
+}
